@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/CVE-2023-32700 patched) (preloaded format=pdflatex 2023.8.23)  25 AUG 2023 10:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/CVE-2023-32700 patched) (preloaded format=pdflatex 2023.11.4)  4 NOV 2023 16:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/home/ms/Documents/class 11/notes/CHAPTER_1SETS.tex"
-(/home/ms/Documents/class 11/notes/CHAPTER_1SETS.tex
+**"/home/mohammedbilal/Documents/hse/class 11/notes/triganometry/sample.tex"
+(/home/mohammedbilal/Documents/hse/class 11/notes/triganometry/sample.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-12-17> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -279,8 +279,8 @@ Package: amsthm 2020/05/29 v2.20.6
 File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count305
 \l__pdf_internal_box=\box99
-) (./CHAPTER_1SETS.aux)
-\openout1 = `CHAPTER_1SETS.aux'.
+) (./sample.aux)
+\openout1 = `sample.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
@@ -350,93 +350,182 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Underfull \hbox (badness 5147) in paragraph at lines 41--43
-[]\OT1/cmr/m/n/12 A well de-fined col-lec-tion of ob-jects/facts.
+Underfull \hbox (badness 10000) in paragraph at lines 40--45
+
  []
 
+<ff.png, id=1, 492.84125pt x 303.1325pt>
+File: ff.png Graphic file (type png)
+<use ff.png>
+Package pdftex.def Info: ff.png  used on input line 46.
+(pdftex.def)             Requested size: 123.21pt x 75.78293pt.
 
-Overfull \hbox (0.44728pt too wide) in paragraph at lines 45--48
-\OT1/cmr/m/n/12 eg: $\OML/cmm/m/it/12 A \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 f[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 53--56
+
  []
 
+<2.png, id=3, 779.91376pt x 338.26375pt>
+File: 2.png Graphic file (type png)
+<use 2.png>
+Package pdftex.def Info: 2.png  used on input line 66.
+(pdftex.def)             Requested size: 194.97797pt x 84.56572pt.
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 73.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 73.
+
+Missing character: There is no ° in font cmr12!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 77.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 77.
+
+Missing character: There is no ° in font cmr12!
+<im3.png, id=4, 610.28pt x 318.18875pt>
+File: im3.png Graphic file (type png)
+<use im3.png>
+Package pdftex.def Info: im3.png  used on input line 81.
+(pdftex.def)             Requested size: 274.62346pt x 143.18361pt.
+
+Overfull \hbox (8.61096pt too wide) in paragraph at lines 81--82
+ [] 
+ []
+
+<im4.png, id=5, 428.60126pt x 190.7125pt>
+File: im4.png Graphic file (type png)
+<use im4.png>
+Package pdftex.def Info: im4.png  used on input line 93.
+(pdftex.def)             Requested size: 192.86877pt x 85.81982pt.
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 97.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 97.
+
+Missing character: There is no ° in font cmr12!
+<im5.png, id=6, 602.25pt x 121.45375pt>
+File: im5.png Graphic file (type png)
+<use im5.png>
+Package pdftex.def Info: im5.png  used on input line 105.
+(pdftex.def)             Requested size: 271.01pt x 54.65367pt.
+
+Overfull \hbox (4.9975pt too wide) in paragraph at lines 105--106
+ [] 
+ []
+
+<im6.png, id=7, 229.85875pt x 226.8475pt>
+File: im6.png Graphic file (type png)
+<use im6.png>
+Package pdftex.def Info: im6.png  used on input line 120.
+(pdftex.def)             Requested size: 103.43547pt x 102.08043pt.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 158--161
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./ff.png> <./2.png> <./im3.png> <./im4.png> <./im5.png> <./im6.png>]
+<im7.png, id=26, 229.85875pt x 226.8475pt>
+File: im7.png Graphic file (type png)
+<use im7.png>
+Package pdftex.def Info: im7.png  used on input line 144.
+(pdftex.def)             Requested size: 103.43547pt x 102.08043pt.
+<im8.png, id=27, 574.145pt x 250.9375pt>
+File: im8.png Graphic file (type png)
+<use im8.png>
+Package pdftex.def Info: im8.png  used on input line 172.
+(pdftex.def)             Requested size: 258.36285pt x 112.92082pt.
+<img9.png, id=28, 299.1175pt x 169.63374pt>
+File: img9.png Graphic file (type png)
+<use img9.png>
+Package pdftex.def Info: img9.png  used on input line 179.
+(pdftex.def)             Requested size: 209.38081pt x 118.7428pt.
+
+Overfull \hbox (18.19164pt too wide) in paragraph at lines 179--180
+ [] 
+ []
+
+<im10.jpg, id=29, 509.905pt x 301.125pt>
+File: im10.jpg Graphic file (type jpg)
+<use im10.jpg>
+Package pdftex.def Info: im10.jpg  used on input line 184.
+(pdftex.def)             Requested size: 254.95187pt x 150.56212pt.
+
+Overfull \hbox (11.83331pt too wide) in paragraph at lines 184--185
+ [] 
+ []
+
+<10.png, id=30, 664.4825pt x 629.35126pt>
+File: 10.png Graphic file (type png)
+<use 10.png>
+Package pdftex.def Info: 10.png  used on input line 190.
+(pdftex.def)             Requested size: 265.78828pt x 251.73604pt.
+<11.png, id=31, 615.29875pt x 268.00125pt>
+File: 11.png Graphic file (type png)
+<use 11.png>
+Package pdftex.def Info: 11.png  used on input line 191.
+(pdftex.def)             Requested size: 246.11513pt x 107.1986pt.
+<12.png, id=32, 611.28375pt x 274.02374pt>
+File: 12.png Graphic file (type png)
+<use 12.png>
+Package pdftex.def Info: 12.png  used on input line 192.
+(pdftex.def)             Requested size: 244.50917pt x 109.60754pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
 
  []
 
-<set1.png, id=12, 583.17876pt x 107.40125pt>
-File: set1.png Graphic file (type png)
-<use set1.png>
-Package pdftex.def Info: set1.png  used on input line 169.
-(pdftex.def)             Requested size: 233.26736pt x 42.95973pt.
-<set2.png, id=14, 309.155pt x 187.70125pt>
-File: set2.png Graphic file (type png)
-<use set2.png>
-Package pdftex.def Info: set2.png  used on input line 196.
-(pdftex.def)             Requested size: 123.6598pt x 75.07916pt.
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 199.
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 199.
-<set4.png, id=15, 309.155pt x 187.70125pt>
-File: set4.png Graphic file (type png)
-<use set4.png>
-Package pdftex.def Info: set4.png  used on input line 213.
-(pdftex.def)             Requested size: 123.6598pt x 75.07916pt.
+[2 <./im7.png> <./im8.png> <./img9.png> <./im10.jpg> <./10.png> <./11.png>]
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--224
+LaTeX Warning: Command \textendash invalid in math mode on input line 219.
 
- []
 
-<set3.png, id=16, 309.155pt x 187.70125pt>
-File: set3.png Graphic file (type png)
-<use set3.png>
-Package pdftex.def Info: set3.png  used on input line 242.
-(pdftex.def)             Requested size: 123.6598pt x 75.07916pt.
+LaTeX Warning: Command \textendash invalid in math mode on input line 219.
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--251
 
- []
+LaTeX Warning: Command \textendash invalid in math mode on input line 221.
 
-[2 <./set1.png> <./set2.png> <./set4.png> <./set3.png>]
-<set5.png, id=26, 737.75626pt x 651.43375pt>
-File: set5.png Graphic file (type png)
-<use set5.png>
-Package pdftex.def Info: set5.png  used on input line 261.
-(pdftex.def)             Requested size: 258.21855pt x 228.00522pt.
-<set6.png, id=27, 303.1325pt x 192.72pt>
-File: set6.png Graphic file (type png)
-<use set6.png>
-Package pdftex.def Info: set6.png  used on input line 273.
-(pdftex.def)             Requested size: 121.25084pt x 77.08662pt.
-<set7.png, id=28, 255.95625pt x 164.615pt>
-File: set7.png Graphic file (type png)
-<use set7.png>
-Package pdftex.def Info: set7.png  used on input line 286.
-(pdftex.def)             Requested size: 102.38068pt x 65.84482pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
+LaTeX Warning: Command \textendash invalid in math mode on input line 223.
 
- []
 
-[3 <./set5.png> <./set6.png> <./set7.png>] (./CHAPTER_1SETS.aux) ) 
+LaTeX Warning: Command \textendash invalid in math mode on input line 226.
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 226.
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 236.
+
+<13.png, id=41, 220.57407pt x 170.13562pt>
+File: 13.png Graphic file (type png)
+<use 13.png>
+Package pdftex.def Info: 13.png  used on input line 245.
+(pdftex.def)             Requested size: 132.34544pt x 102.08215pt.
+<14.png, id=42, 323.2075pt x 88.33pt>
+File: 14.png Graphic file (type png)
+<use 14.png>
+Package pdftex.def Info: 14.png  used on input line 249.
+(pdftex.def)             Requested size: 193.926pt x 52.9984pt.
+
+LaTeX Warning: Command \textpm invalid in math mode on input line 260.
+
+
+LaTeX Warning: Command \textpm invalid in math mode on input line 260.
+
+Missing character: There is no ± in font cmr12!
+[3 <./12.png> <./13.png> <./14.png>] (./sample.aux) ) 
 Here is how much of TeX's memory you used:
- 4743 strings out of 478126
- 75284 string characters out of 5842787
- 1869793 words of memory out of 6000000
- 24740 multiletter control sequences out of 15000+600000
- 517254 words of font info for 49 fonts, out of 8000000 for 9000
+ 4783 strings out of 478126
+ 75541 string characters out of 5842787
+ 1876793 words of memory out of 6000000
+ 24774 multiletter control sequences out of 15000+600000
+ 517552 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,8n,62p,270b,356s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on CHAPTER_1SETS.pdf (3 pages, 166945 bytes).
+ 55i,8n,62p,291b,384s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on sample.pdf (3 pages, 1248654 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 89 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
