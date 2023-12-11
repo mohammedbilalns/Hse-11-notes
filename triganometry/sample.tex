@@ -1,7 +1,7 @@
 \documentclass[12pt]{article}
 \usepackage[english]{babel}
 \usepackage[margin=0.5in]{geometry}
-
+\usepackage{hyperref}
 \usepackage{amsmath,textcomp,blindtext,xcolor,multicol,color,comment,wrapfig,graphicx,amsthm}
 \newtheoremstyle{colored}
   {\topsep}   % Space above
@@ -22,12 +22,23 @@
   {}          % Punctuation after theorem head
   {.5em}      % Space after theorem head
   {\thmnote{ \textbf{\color{blue}#3}}} % Theorem head spec
-
+  
 \theoremstyle{colored}
 \newtheorem*{defn}{}
 
 \theoremstyle{subcolored}
 \newtheorem*{subdefn}{}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref} % For hyperlinks
+
+% Define the URL for the footer
+\newcommand{\myURL}{https://mohammedbilalns.github.io/Math-Demystified/}
+
+% Set up fancy headers and footers
+\pagestyle{fancy}
+\fancyhf{} % Clear header and footer
+\rfoot{\href{\myURL}{\myURL}} % Set the right part of the footer as a hyperlink
 
 
 \begin{document}
@@ -263,6 +274,7 @@ tan x = tan y gives $x = n\pi + y$, where $n \in Z$
 \\
 Principal solution is the solution which lies in the interval $0 \leq x \leq 2\pi$.
 \end{multicols}
+
 \end{document}
 
 

@@ -18,6 +18,17 @@
 \titlespacing{\subsection}{0pt}{0pt}{0pt} % Adjust the spacing here
 \titlespacing{\subsubsection}{0pt}{\baselineskip}{0pt} % Adjust the spacing here
 
+\usepackage{fancyhdr}
+\usepackage{hyperref} % For hyperlinks
+
+% Define the URL for the footer
+\newcommand{\myURL}{https://mohammedbilalns.github.io/Math-Demystified/}
+
+% Set up fancy headers and footers
+\pagestyle{fancy}
+\fancyhf{} % Clear header and footer
+\rfoot{\href{\myURL}{\myURL}} % Set the right part of the footer as a hyperlink
+
 \begin{document}
 \begin{center}
     {\LARGE \textbf{LIMITS AND DERIVATIVES} }
